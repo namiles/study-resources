@@ -19,6 +19,9 @@ https://www.udemy.com/course/comptia-security-certification-sy0-501-the-total-co
 Darril Gibson's Get Certified Get Ahead book for Security+  
 https://amzn.to/2VhSHqG  
 
+Proffessor Messer's Free Security+ Videos & Study Sessiosn  
+https://www.professormesser.com/
+
 ### Learning Platforms
 **Udemy** - Great, low cost platform that have hundreds of choices of video courses. They often have sales for cheap courses.  
 https://www.udemy.com/  
