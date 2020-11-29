@@ -18,6 +18,6 @@ Linux Academy
 
 ### Discord Communities
 NetworkChuck - https://discord.gg/networkchuck  
-David Bombal  
-OGIT (Keith Barker)  
-Cisco Study Group  
+David Bombal - https://discord.gg/KxPTCQsy  
+OGIT (Keith Barker) - https://discord.gg/dUVJH6rK    
+Cisco Study Group - https://discord.gg/7Bm67D7k  
