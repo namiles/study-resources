@@ -2,7 +2,8 @@
 Study resources I've used or recommend for certifications I hold or am studying for.
 
 ### CCNA
-
+David Bombal CCNA Udemy Course  
+David Bombal Packet Tracer Labs  
 
 ### Linux Essentials
 
