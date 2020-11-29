@@ -8,16 +8,16 @@ Study resources I've used or recommend for certifications I hold or am studying 
 
 
 ### Security+ (SYO-501)
-Mike Meyers' Udemy Course/Practice Exams
-Darril Gibson's Get Certified Get Ahead for Security +
+Mike Meyers' Udemy Course/Practice Exams  
+Darril Gibson's Get Certified Get Ahead for Security +  
 
 ### Learning Platforms
-Udemy
-ITProTV
-Linux Academy
+Udemy  
+ITProTV  
+Linux Academy  
 
 ### Discord Communities
-NetworkChuck
-David Bombal
-OGIT (Keith Barker)
-Cisco Study Group
+NetworkChuck  
+David Bombal  
+OGIT (Keith Barker)  
+Cisco Study Group  
