@@ -3,14 +3,21 @@ Study resources I've used or recommend for certifications I hold or am studying 
 
 ### CCNA
 David Bombal CCNA Udemy Course  
+https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start/  
+
 David Bombal Packet Tracer Labs  
+https://www.udemy.com/course/cisco-ccna-packet-tracer-ultimate-labs-ccna-exam-prep-labs/
 
 ### Linux Essentials
-
+ITProTV Linux Essentials Course  
+Linux Academy Linux Essentials course, practice exams, and labs.  
 
 ### Security+ (SYO-501)
 Mike Meyers' Udemy Course/Practice Exams  
+https://www.udemy.com/course/comptia-security-certification-sy0-501-the-total-course/  
+
 Darril Gibson's Get Certified Get Ahead book for Security+  
+https://amzn.to/2VhSHqG  
 
 ### Learning Platforms
 **Udemy** - Great, low cost platform that have hundreds of choices of video courses. They often have sales for cheap courses.  
