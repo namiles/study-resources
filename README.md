@@ -9,7 +9,7 @@ Study resources I've used or recommend for certifications I hold or am studying 
 
 ### Security+ (SYO-501)
 Mike Meyers' Udemy Course/Practice Exams  
-Darril Gibson's Get Certified Get Ahead for Security +  
+Darril Gibson's Get Certified Get Ahead book for Security+  
 
 ### Learning Platforms
 Udemy  
