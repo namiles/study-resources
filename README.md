@@ -12,7 +12,7 @@ Mike Meyers' Udemy Course/Practice Exams
 Darril Gibson's Get Certified Get Ahead book for Security+  
 
 ### Learning Platforms
-Udemy  
+Udemy - Great, low cost platform that have hundreds of choices of video courses. They often have sales for cheap courses. - https://www.udemy.com/  
 ITProTV  
 Linux Academy  
 
