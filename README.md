@@ -17,7 +17,7 @@ ITProTV
 Linux Academy  
 
 ### Discord Communities
-NetworkChuck  
+NetworkChuck - https://discord.gg/networkchuck  
 David Bombal  
 OGIT (Keith Barker)  
 Cisco Study Group  
