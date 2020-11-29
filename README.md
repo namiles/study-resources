@@ -12,14 +12,14 @@ https://www.udemy.com/course/cisco-ccna-packet-tracer-ultimate-labs-ccna-exam-pr
 ITProTV Linux Essentials Course  
 Linux Academy Linux Essentials course, practice exams, and labs.  
 
-### Security+ (SYO-501)
+### :lock: Security+ (SYO-501)
 Mike Meyers' Udemy Course/Practice Exams  
 https://www.udemy.com/course/comptia-security-certification-sy0-501-the-total-course/  
 
 Darril Gibson's Get Certified Get Ahead book for Security+  
 https://amzn.to/2VhSHqG  
 
-Proffessor Messer's Free Security+ Videos & Study Sessiosn  
+Proffessor Messer's Free Security+ Videos (available on Youtube) & Study Sessions 
 https://www.professormesser.com/
 
 ### Learning Platforms
