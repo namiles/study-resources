@@ -20,7 +20,11 @@ https://www.udemy.com/
 https://www.itpro.tv/  
 
 **Linux Academy** - Subscription based service for many certifications, much like ITproTV. They have a lot of courses for security, Linux, and cloud. I used them for Linux Essentials. They also have labs and practice exams available. They were recently aquired by A Cloud Guru, so you must sign up through them.  
-https://acloudguru.com/  
+https://acloudguru.com/
+
+**ThisIsIT** - New platform created by NetworkChuck and David Bombal. There is a free tier availalble. Users who sign up get access to many courses created by several instructors.  
+https://thisisit.io/  
+
 
 ### Discord Communities
 The below Discord communities have very active communities and many qualified professionals who are willing to help others looking to get into IT or are weanting advice.  
