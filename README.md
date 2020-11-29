@@ -23,23 +23,23 @@ Proffessor Messer's Free Security+ Videos (available on Youtube) & Study Session
 https://www.professormesser.com/
 
 ### Learning Platforms
-**Udemy** - Great, low cost platform that have hundreds of choices of video courses. They often have sales for cheap courses.  
+:small_red_triangle: **Udemy** - Great, low cost platform that have hundreds of choices of video courses. They often have sales for cheap courses.  
 https://www.udemy.com/  
 
-**ITProTV**  - Subscription based service for training for many certifications. Courses are high quality, and the pricing is cheaper than other options. They also have vritual labs and practice exams for some certifications at the higher tier subscription.  
+:small_red_triangle: **ITProTV**  - Subscription based service for training for many certifications. Courses are high quality, and the pricing is cheaper than other options. They also have vritual labs and practice exams for some certifications at the higher tier subscription.  
 https://www.itpro.tv/  
 
-**Linux Academy** - Subscription based service for many certifications, much like ITproTV. They have a lot of courses for security, Linux, and cloud. I used them for Linux Essentials. They also have labs and practice exams available. They were recently aquired by A Cloud Guru, so you must sign up through them.  
+:small_red_triangle: **Linux Academy** - Subscription based service for many certifications, much like ITproTV. They have a lot of courses for security, Linux, and cloud. I used them for Linux Essentials. They also have labs and practice exams available. They were recently aquired by A Cloud Guru, so you must sign up through them.  
 https://acloudguru.com/
 
-**ThisIsIT** - New platform created by NetworkChuck and David Bombal. There is a free tier availalble. Users who sign up get access to many courses created by several instructors.  
+:small_red_triangle: **ThisIsIT** - New platform created by NetworkChuck and David Bombal. There is a free tier availalble. Users who sign up get access to many courses created by several instructors.  
 https://thisisit.io/  
 
 
 ### Discord Communities
 The below Discord communities have very active communities and many qualified professionals who are willing to help others looking to get into IT or are weanting advice.  
   
-NetworkChuck - https://discord.gg/networkchuck  
-David Bombal - https://discord.gg/KxPTCQsy  
-OGIT (Keith Barker) - https://discord.gg/dUVJH6rK    
-Cisco Study Group - https://discord.gg/7Bm67D7k  
+:pushpin: NetworkChuck - https://discord.gg/networkchuck  
+:pushpin: David Bombal - https://discord.gg/KxPTCQsy  
+:pushpin: OGIT (Keith Barker) - https://discord.gg/dUVJH6rK    
+:pushpin: Cisco Study Group - https://discord.gg/7Bm67D7k  
