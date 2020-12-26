@@ -36,16 +36,16 @@ https://acloudguru.com/
 https://thisisit.io/  
 
 ### Software & Tools
-**Packet Tracer** - Free network simulation software provided by Cisco. Requires a Cisco Networking Academy account, which is free to set up.
+:large_blue_circle:**Packet Tracer** - Free network simulation software provided by Cisco. Requires a Cisco Networking Academy account, which is free to set up.
 https://www.netacad.com/courses/packet-tracer   
 
-**GNS3** - Free network emulation software   
+:large_blue_circle:**GNS3** - Free network emulation software   
 https://www.gns3.com/   
 
-**Virtualbox** - Free hypervisor great for creating virtual machines   
+:large_blue_circle:**Virtualbox** - Free hypervisor great for creating virtual machines   
 https://www.virtualbox.org/   
 
-**VMware Workstation Pro/Player** - My hypervisor of choice. Player is free, and pro is a paid version with a bit more features.   
+:large_blue_circle:**VMware Workstation Pro/Player** - My hypervisor of choice. Player is free, and pro is a paid version with a bit more features.   
 https://www.vmware.com/products/workstation-pro.html   
 
 ### Discord Communities
