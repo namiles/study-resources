@@ -55,4 +55,4 @@ The below Discord communities have very active communities and many qualified pr
 :pushpin: David Bombal - https://discord.gg/KxPTCQsy  
 :pushpin: OGIT (Keith Barker) - https://discord.gg/dUVJH6rK    
 :pushpin: Cisco Study Group - https://discord.gg/7Bm67D7k  
-:pushpin: CompTIA Study Grouo - https://discord.com/invite/GDVMgtP
+:pushpin: CompTIA Study Group - https://discord.com/invite/GDVMgtP
