@@ -1,25 +1,30 @@
 # Study Resources
 Study resources I've used or recommend for certifications I hold or am studying for.
 
-### DevNet Associate (DEVASC 200-901)
+### Cisco DevNet Associate (DEVASC 200-901)
 Official Cert Guide Book   
 https://www.amazon.com/Certified-DevNet-Associate-200-901-Official/dp/0136642969/ref=sr_1_1?dchild=1&keywords=devnet+associate&qid=1620403665&sr=8-1   
 
 David Bombal Python Network Programming Udemy Course   
 https://www.udemy.com/course/python-network-programming-for-network-engineers-python-3/   
 
-### CCNA
+ITproTV DevNet Associate Course   
+https://www.itpro.tv/courses/cisco/cisco-certified-devnet-associate-200901/
+
+### Cisco CCNA
 David Bombal CCNA Udemy Course  
 https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start/  
 
 David Bombal Packet Tracer Labs  
 https://www.udemy.com/course/cisco-ccna-packet-tracer-ultimate-labs-ccna-exam-prep-labs/
 
-### Linux Essentials
-ITProTV Linux Essentials Course  
+### LPI Linux Essentials
+ITProTV Linux Essentials Course   
+https://www.itpro.tv/courses/linux/linux-essentials/   
+
 Linux Academy Linux Essentials course, practice exams, and labs.  
 
-### :lock: Security+ (SYO-501)
+### CompTIA Security+ (SYO-501)
 Mike Meyers' Udemy Course/Practice Exams  
 https://www.udemy.com/course/comptia-security-certification-sy0-501-the-total-course/  
 
