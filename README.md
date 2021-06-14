@@ -8,8 +8,8 @@ https://www.amazon.com/Certified-DevNet-Associate-200-901-Official/dp/0136642969
 David Bombal Python Network Programming Udemy Course   
 https://www.udemy.com/course/python-network-programming-for-network-engineers-python-3/   
 
-ITproTV DevNet Associate Course   
-https://www.itpro.tv/courses/cisco/cisco-certified-devnet-associate-200901/
+CBT Nuggets DevNet Associate Course   
+https://www.cbtnuggets.com/it-training/cisco/devnet-associate
 
 ### Cisco CCNA
 David Bombal CCNA Udemy Course  
