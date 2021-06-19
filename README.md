@@ -38,14 +38,11 @@ https://www.professormesser.com/
 :small_red_triangle: **Udemy** - Great, low cost platform that have hundreds of choices of video courses. They often have sales for cheap courses.  
 https://www.udemy.com/  
 
-:small_red_triangle: **ITProTV**  - Subscription based service for training for many certifications. Courses are high quality, and the pricing is cheaper than other options. They also have vritual labs and practice exams for some certifications at the higher tier subscription.  
-https://www.itpro.tv/  
-
 :small_red_triangle: **Linux Academy** - Subscription based service for many certifications, much like ITproTV. They have a lot of courses for security, Linux, and cloud. I used them for Linux Essentials. They also have labs and practice exams available. They were recently aquired by A Cloud Guru, so you must sign up through them.  
 https://acloudguru.com/
 
-:small_red_triangle: **ThisIsIT** - New platform created by NetworkChuck and David Bombal. There is a free tier availalble. Users who sign up get access to many courses created by several instructors.  
-https://thisisit.io/  
+:small_red_triangle: **CBT Nuggets** - Subscription based platform with many high quality instructors and courses. The price is a little on the high side, but definitely worth the investment if used often.   
+https://www.cbtnuggets.com/
 
 ### Software & Tools
 :large_blue_circle: **Packet Tracer** - Free network simulation software provided by Cisco. Requires a Cisco Networking Academy account, which is free to set up.
