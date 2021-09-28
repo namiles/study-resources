@@ -5,8 +5,8 @@ Study resources I've used or recommend for certifications I hold or am studying 
 Official Cert Guide Book   
 https://www.amazon.com/Certified-DevNet-Associate-200-901-Official/dp/0136642969/ref=sr_1_1?dchild=1&keywords=devnet+associate&qid=1620403665&sr=8-1   
 
-David Bombal Python Network Programming Udemy Course   
-https://www.udemy.com/course/python-network-programming-for-network-engineers-python-3/   
+DevNet Site - A MUST use. Plenty of free labs, code samples, and sandboxes to play with.   
+https://developer.cisco.com/
 
 CBT Nuggets DevNet Associate Course   
 https://www.cbtnuggets.com/it-training/cisco/devnet-associate
