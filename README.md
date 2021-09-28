@@ -11,6 +11,9 @@ https://www.udemy.com/course/python-network-programming-for-network-engineers-py
 CBT Nuggets DevNet Associate Course   
 https://www.cbtnuggets.com/it-training/cisco/devnet-associate
 
+Nick Russo's DevNet Study Plan (Old video, but study plan is more up to date)   
+https://www.youtube.com/watch?v=AhPloufPDH8
+
 ### Cisco CCNA
 David Bombal CCNA Udemy Course  
 https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start/  
