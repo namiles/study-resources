@@ -68,7 +68,6 @@ https://www.vmware.com/products/workstation-pro.html
 The below Discord communities have very active communities and many qualified professionals who are willing to help others looking to get into IT or are weanting advice.  
 
 :pushpin: It's All About the Journey (The Art of Network Engineering podcast) - https://discord.com/invite/iaatj   
-:pushpin: NetworkChuck - https://discord.gg/networkchuck  
 :pushpin: David Bombal - https://discord.gg/KxPTCQsy  
 :pushpin: OGIT (Keith Barker) - https://discord.gg/dUVJH6rK    
 :pushpin: Cisco Study Group - https://discord.gg/7Bm67D7k  
