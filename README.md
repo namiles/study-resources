@@ -1,9 +1,15 @@
 # Study Resources
-Study resources I've used or recommend for certifications I hold or am studying for.
+List of study resources I've used, or recommend, for certifications I currently hold, or am studying for.
 
 ### CCNP Enterprise Core (ENCOR 350-401)   
 Cisco Whitepapers   
-https://github.com/namiles/cisco-whitepapers
+https://github.com/namiles/cisco-whitepapers   
+
+CBT Nuggets ENCOR Course   
+https://www.cbtnuggets.com/it-training/cisco/ccnp-enterprise-core
+
+Jeremy's IT Lab ENCOR Course   
+https://www.youtube.com/watch?v=0iBRK8GRTrI&list=PLxbwE86jKRgOb2uny1CYEzyRy_mc-lE39&pp=iAQB
 
 ### Cisco DevNet Associate (DEVASC 200-901)
 Official Cert Guide Book   
