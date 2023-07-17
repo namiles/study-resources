@@ -1,7 +1,7 @@
 # Study Resources
 List of study resources I've used, or recommend, for certifications I currently hold, or am studying for.
 
-### CCNP Enterprise Core (ENCOR 350-401)   
+### :scroll: CCNP Enterprise Core (ENCOR 350-401)   
 Cisco Whitepapers   
 https://github.com/namiles/cisco-whitepapers   
 
@@ -11,7 +11,7 @@ https://www.cbtnuggets.com/it-training/cisco/ccnp-enterprise-core
 Jeremy's IT Lab ENCOR Course   
 https://www.youtube.com/watch?v=0iBRK8GRTrI&list=PLxbwE86jKRgOb2uny1CYEzyRy_mc-lE39&pp=iAQB
 
-### Cisco DevNet Associate (DEVASC 200-901)
+### :scroll: Cisco DevNet Associate (DEVASC 200-901)
 Official Cert Guide Book   
 https://www.amazon.com/Certified-DevNet-Associate-200-901-Official/dp/0136642969/ref=sr_1_1?dchild=1&keywords=devnet+associate&qid=1620403665&sr=8-1   
 
@@ -24,20 +24,20 @@ https://www.cbtnuggets.com/it-training/cisco/devnet-associate
 Nick Russo's DevNet Study Plan (Old video, but study plan is more up to date)   
 https://www.youtube.com/watch?v=AhPloufPDH8
 
-### CCNA
+### :scroll: CCNA
 David Bombal CCNA Udemy Course  
 https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start/  
 
 David Bombal Packet Tracer Labs  
 https://www.udemy.com/course/cisco-ccna-packet-tracer-ultimate-labs-ccna-exam-prep-labs/
 
-### LPI Linux Essentials
+### :scroll: LPI Linux Essentials
 ITProTV Linux Essentials Course   
 https://www.itpro.tv/courses/linux/linux-essentials/   
 
 Linux Academy Linux Essentials course, practice exams, and labs.  
 
-### CompTIA Security+ (SYO-501)
+### :scroll: CompTIA Security+ (SYO-501)
 Mike Meyers' Udemy Course/Practice Exams  
 https://www.udemy.com/course/comptia-security-certification-sy0-501-the-total-course/  
 
@@ -61,8 +61,8 @@ https://www.cbtnuggets.com/
 :large_blue_circle: **Packet Tracer** - Free network simulation software provided by Cisco. Requires a Cisco Networking Academy account, which is free to set up.
 https://www.netacad.com/courses/packet-tracer   
 
-:large_blue_circle: **GNS3** - Free network emulation software   
-https://www.gns3.com/   
+:large_blue_circle: **EVE-NG** - Free network emulation platform for servers. There is paid tier with more features.      
+https://www.eve-ng.net/
 
 :large_blue_circle: **Virtualbox** - Free hypervisor great for creating virtual machines   
 https://www.virtualbox.org/   
